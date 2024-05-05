@@ -1,1 +1,2 @@
 v1.0 NW creation script
+v2.0 Added connections to SOC
