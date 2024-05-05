@@ -1,1 +1,2 @@
 v1.0 NW creation script
+v1.1 Added Web FE NW
