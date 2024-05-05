@@ -1,2 +1,4 @@
 v1.0 Script for VM creation
+v1.1 Added core web application
 v2.0 Added ATP module
+
